@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<helloworld>
+    <message><lang>Chinese</lang><text> 你好世界 !</text>
+    </message>
+    <message><lang>English</lang><text>Hello world!</text>
+    </message>
+    <message><lang>French</lang><text>Salut le monde!</text>
+    </message>
+    <message><lang>German</lang><text>Hallo Welt!</text>
+    </message>
+    <message><lang>Russian</lang><text>здравствулте мир!</text>
+    </message>
+    <message><lang>Vietnamese</lang><text>Chào thế giới!</text>
+    </message>
+</helloworld>
